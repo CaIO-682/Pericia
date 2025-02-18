@@ -1,4 +1,16 @@
-# Pericia
+## Alunos 
+
+<p>Geovane Jlio Candido Ferreira Minali</p>
+<p>Angela Reis Afonso</p>
+<p>Henrique Pereira Da Silva</P>
+<p>Caio Yukio Sasaki</p>
+
+<a>https://github.com/Geovane-Julio/profissoes.git</a>
+<br><a>https://github.com/AngelaAfonso/Profissoes.git</a>
+<br><a>https://github.com/HenriquePsDev/DesenvolvedorDeSofware.git</a>
+<br><a>https://github.com/CaIO-682/Pericia.git</a>
+
+
 
 # Perícia
 
